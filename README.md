@@ -81,7 +81,7 @@ Please fork the repository and submit a pull request.
 
 This project is licensed under the MIT License.
 
-🔗 Dive : https://drive.google.com/drive/folders/1MYep_YPRgkR4mtSfFpegMC1oMdw7yGNP
+🔗 Drive : https://drive.google.com/drive/folders/1MYep_YPRgkR4mtSfFpegMC1oMdw7yGNP
 
 🌐 Live Demo : https://youtu.be/uNFZ47NE328?si=4X10zMkXyf8rciJx
  
